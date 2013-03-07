@@ -196,6 +196,8 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#c59c70</string>
 			</dict>
