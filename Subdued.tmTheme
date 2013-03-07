@@ -6,8 +6,10 @@
 <!-- code: https://github.com/aziz/tmTheme-Editor -->
 <plist version="1.0">
 <dict>
+	<key>author</key>
+	<string>Justin LeFebvre</string>
 	<key>name</key>
-	<string>mreq</string>
+	<string>Subdued</string>
 	<key>settings</key>
 	<array>
 		<dict>
